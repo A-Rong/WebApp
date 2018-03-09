@@ -1,13 +1,14 @@
+/.idea/*
+app_env
+
 *.py[cod]
 
-app_env
 test.db
 test.txt
 sina.html
 
 # C extensions
 *.so
-/.idea/*
 
 # Packages
 *.egg
